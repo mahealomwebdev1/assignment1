@@ -1,0 +1,131 @@
+body {
+    font-family: 'Arimo', sans-serif;
+}
+
+h1 {
+    color: #f87529;
+    font-size: 55px;
+    margin-left: 100px;
+}
+
+h2 {
+    font-size: 40px;
+    margin-left: 100px;
+}
+
+margin-left: 100px;
+h3 {
+    font-size: 40px;
+    text-align: center;
+    color: lawngreen;
+}
+
+.p1 {
+    margin-left: 100px;
+}
+
+.button {
+    text-align: left;
+}
+
+.topbutton {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(230, 129, 14), rgb(136, 241, 15));
+}
+
+.half-width {
+    width: 44%;
+    padding-left: 1%;
+    float: left;
+}
+
+.half-width2 {
+    width: 44%;
+    padding-left: 1%;
+    float: left;
+}
+
+.resumebutton {
+    text-decoration: none;
+    padding: 10px 20px;
+    font-weight: 700;
+    border-radius: 10px;
+    background-image: linear-gradient(rgb(230, 129, 14), rgb(136, 241, 15));
+}
+
+.img1 {
+    height: 300px;
+    padding-right: 50px;
+}
+
+#img2 {
+    height: 300px;
+    float: left;
+    margin-left: 250px;
+}
+
+.my-work {
+    font-size: 40px;
+    color: greenyellow;
+    text-align: center;
+    width: 100%;
+}
+
+.biography {
+    width: 100%;
+}
+
+.sec1 {
+    background-image: url("images/personal-website/header-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+}
+
+.sec2 {
+    background-image: url("images/personal-website/biography-bg.png");
+    background-repeat: no-repeat;
+    width: 100%;
+    float: left;
+}
+
+.latest-work {
+    padding: 100px;
+    text-align: center;
+    color: black;
+    }
+
+.sec3 {
+    text-align: center;
+    margin: 20% 20%;
+}
+h4{
+    font-size: 35px;
+}
+h5 {
+    color: violet;
+}
+
+h6 {
+    color: gray;
+}
+
+.contact-option {
+    text-align: center;
+    color: white;
+    margin-left:20%;
+    margin-right:20%;
+    padding-top: 20px;
+    border-radius: 5px;
+    width: 60%;
+    height: 100px;
+    background-color: rgb(224, 37, 184);
+   
+}
+
+.e-mail {
+    text-align: center;
+    font size: 40px;
+}
